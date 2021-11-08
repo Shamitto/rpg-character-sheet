@@ -78,7 +78,7 @@ const data = {
       amount: 10,
     },
     {
-      type: '?',
+      type: 'Elemento',
       amount: 10,
     },
   ],
